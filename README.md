@@ -23,13 +23,4 @@ No modules.
 | [aws_iam_user.user-s3](https://registry.terraform.io/providers/hashicorp/aws/5.14.0/docs/resources/iam_user) | resource |
 | [aws_iam_user_policy_attachment.s3-attach](https://registry.terraform.io/providers/hashicorp/aws/5.14.0/docs/resources/iam_user_policy_attachment) | resource |
 
-## Inputs
-
-No inputs.
-
-## Outputs
-
-| Name | Description |
-|------|-------------|
-| <a name="output_arn"></a> [arn](#output\_arn) | n/a |
 <!-- END_TF_DOCS -->
